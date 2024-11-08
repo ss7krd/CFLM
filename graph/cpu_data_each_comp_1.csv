@@ -1,0 +1,4 @@
+malicious_no,our_system,our_system_wo_group,our_system_wo_reassign,our_system_wo_partial_task,our_system_wo_all_task,our_system_wo_syn_data,sp_model_shot,our_system_wo_ir,our_system_wo_ie
+2,61,3.1,62,61,61,61,86.9,61,61
+4,63,3,63,63,63,63,83.8,63,64
+6,65,3,65,65,65,66,82.05,65,65

@@ -1,0 +1,38 @@
+CLIENT1
+=======
+
+Weights [.5, .5] after first epoch
+
+CLIENT2 
+=======
+
+Weights [.7, .8] after first epoch 
+
+AVG
+===
+
+WEIGHTS [.6, .65] 
+
+CLIENT1
+=======
+
+Starts from [.6, .65] on first half of data 
+
+CLIENT2
+=======
+
+Starts from [.6, .65] on second half of data 
+
+TASK 
+====
+
+1. Loop for each client
+
+* Load previous epoch weight - except on first, where weights are random 
+* Train for one epoch 
+
+2. Scalability for clients 
+
+* Number of clients should be a hyperparameter
+
+e.g. get_weights(num_clients: Int)

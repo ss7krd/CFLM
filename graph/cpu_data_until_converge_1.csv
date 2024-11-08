@@ -1,0 +1,4 @@
+malicious_no,our_system,federated_learning,malDeviceDetect_trustAwareReassignment,drop,deepsense,sp_model_combined,sp_model_shot,FL,ctrust,,,
+2,61,70,76,61,80.12,93.91,86.9,2.2,60,18.1,9050,150.8333333
+4,63,70,79,63,77.51,90.05,83.8,1.9,62,25,12500,208.3333333
+6,65,70,80,66,74.95,88.73,82.05,1.8,64,30,15000,250
